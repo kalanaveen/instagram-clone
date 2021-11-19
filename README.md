@@ -1,3 +1,28 @@
+Build a instagram clone with new technoligies like Next.js,Tailwind Css,Recoil,Firebase v9,Next Auth beta version,headless ui.
+In this application we can upload photo ,like photo,and also comment photo.We have powerfull next auth  google authentication.
+
+![image](https://user-images.githubusercontent.com/34640475/142576650-90a5cc1d-cc9a-47fb-88ed-46a56e5bacf8.png)
+
+Key Features
+    
+    Post a photo with  caption.
+    Like a post , comment post and delete post.
+    Fully responsive with help of tailwind css.
+    Signin functionaity with powerfull next auth beta version.
+    Recoil used for state management.
+    Firebase used for storage images.
+    
+Key Technologies
+
+    React.js
+    Next.js
+    Tailwind css
+    Headless ui
+    Recoil
+    Next-auth beta
+    Firebase version 9
+    Heroicons.
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
